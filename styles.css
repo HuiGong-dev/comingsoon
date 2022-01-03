@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Merriweather;
+  }
+  
+  h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    margin: auto;
+    font-size: 4.625rem;
+    display: block;
+  }
+
+
+  .center-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 95vh;
+  }
